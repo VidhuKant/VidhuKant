@@ -23,9 +23,8 @@ I end up writing code sometimes because I'm so lazy my user experience absolutel
 
 - Go
 - JavaScript
+- Bash
 - Python
-- Dart
-- C
 
 ## Spoken Languages
 
@@ -34,3 +33,18 @@ I end up writing code sometimes because I'm so lazy my user experience absolutel
 - English
 - Hindi
 - Japanese
+
+## Languages to Learn
+
+(*sighs* probably will never learn any of these)
+
+- Haskell
+- Rust
+- Kotlin
+- C-Hashtag
+- Korean
+- C++
+- Elixir
+
+
+**Programmer by profession (not really) but weeb at heart**
