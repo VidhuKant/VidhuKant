@@ -8,6 +8,8 @@ Badmouth my waifu and I'll end your laifu.
 
 I end up writing code sometimes because I'm so lazy my user experience absolutely has to be fine tuned when I'm on my pc (I use Arch btw)
 
+**Notice:** Many of my projects are *not* on GitHub. Check out my [Git server](https://dev.vidhukant.xyz/) for more info.
+
 ![Mori Calliope](mori-calliope.gif)
 ![Tambourine](tambourine.gif)
 ![Azusagawa Sakuta](azusagawa-cheek.gif)
@@ -22,7 +24,7 @@ I end up writing code sometimes because I'm so lazy my user experience absolutel
 (sorted by preference, I'm bad at all of them)
 
 - Go
-- JavaScript
+- JavaScript (and a little TS)
 - Bash
 - Python
 
