@@ -1,6 +1,6 @@
 # Konnichiwa
 
-[![vidhukant.xyz](https://vidhukant.xyz/images/vidhukant.xyz.gif)](https://vidhukant.xyz)
+[![vidhukant.xyz](vidhukant.xyz.gif)](https://vidhukant.xyz)
 ![Dank Nezuko](dank-nezuko.gif)
 
 Yo I'm Vidhu Kant. I identify as a human weeb. I can spend hours reading manga and listening to weeb music/vocaloid.
