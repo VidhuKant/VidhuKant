@@ -3,12 +3,11 @@
 [![vidhukant.xyz](vidhukant.xyz.gif)](https://vidhukant.xyz)
 ![Dank Nezuko](dank-nezuko.gif)
 
-Yo I'm Vidhu Kant. I identify as a human weeb. I can spend hours reading manga and listening to weeb music/vocaloid.
-Badmouth my waifu and I'll end your laifu.
+Yahallo! I'm Vidhu Kant. Badmouth my waifu and I'll end your laifu.
 
 I end up writing code sometimes because I'm so lazy my user experience absolutely has to be fine tuned when I'm on my pc (I use Arch btw)
 
-**Notice:** Many of my projects are *not* on GitHub. Check out my [Git server](https://mikunonaka.net) for more info.
+Many of my projects are *not* on GitHub. Check out my [Git server](https://git.vidhukant.com) for the real shit.
 
 ![Mori Calliope](mori-calliope.gif)
 ![Tambourine](tambourine.gif)
@@ -24,7 +23,7 @@ I end up writing code sometimes because I'm so lazy my user experience absolutel
 (sorted by preference, I'm bad at all of them)
 
 - Go
-- JavaScript (and a little TS)
+- JavaScript (with a touch of TS)
 - Bash
 - Python
 
