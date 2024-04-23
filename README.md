@@ -1,6 +1,5 @@
 # Konnichiwa
 
-[![vidhukant.xyz](vidhukant.xyz.gif)](https://vidhukant.xyz)
 ![Dank Nezuko](dank-nezuko.gif)
 
 Yahallo! I'm Vidhu Kant. Badmouth my waifu and I'll end your laifu.
@@ -9,14 +8,10 @@ I end up writing code sometimes because I'm so lazy my user experience absolutel
 
 Many of my projects are *not* on GitHub. Check out my [Git server](https://git.vidhukant.com) for the real shit.
 
-![Mori Calliope](mori-calliope.gif)
 ![Tambourine](tambourine.gif)
 ![Azusagawa Sakuta](azusagawa-cheek.gif)
 ![Ginko](mushishi-ginko.gif)
-![Emilia](emilia.gif)
 ![Takanashi Rikka](rikka.gif)
-![Zero Two](zero-two.gif)
-![Chainsaw Man](chainsawman.gif)
 
 ## Programming Languages
 
