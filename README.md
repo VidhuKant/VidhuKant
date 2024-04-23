@@ -11,29 +11,26 @@ Many of my projects are *not* on GitHub. Check out my [Git server](https://git.v
 ![Ginko](mushishi-ginko.gif)
 ![Takanashi Rikka](rikka.gif)
 
-## Programming Languages
+## Programming Languages ![Dank Nezuko](dank-nezuko.gif)
 
 (sorted by preference, I'm bad at all of them)
-![Dank Nezuko](dank-nezuko.gif)
 
 - Go
 - JavaScript (with a touch of TS)
 - Bash
 - Python
 
-## Spoken Languages
+## Spoken Languages ![Dank Nezuko](dank-nezuko.gif)
 
 (sorted by preference)
-![Dank Nezuko](dank-nezuko.gif)
 
 - English
 - Hindi
 - Japanese
 
-## Languages to Learn
+## Languages to Learn ![Dank Nezuko](dank-nezuko.gif)
 
 (*sighs* probably will never learn any of these)
-![Dank Nezuko](dank-nezuko.gif)
 
 - Haskell
 - Rust
