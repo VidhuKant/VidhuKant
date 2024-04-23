@@ -1,7 +1,5 @@
 # Konnichiwa
 
-![Dank Nezuko](dank-nezuko.gif)
-
 Yahallo! I'm Vidhu Kant. Badmouth my waifu and I'll end your laifu.
 
 I end up writing code sometimes because I'm so lazy my user experience absolutely has to be fine tuned when I'm on my pc (I use Arch btw)
@@ -16,6 +14,7 @@ Many of my projects are *not* on GitHub. Check out my [Git server](https://git.v
 ## Programming Languages
 
 (sorted by preference, I'm bad at all of them)
+![Dank Nezuko](dank-nezuko.gif)
 
 - Go
 - JavaScript (with a touch of TS)
@@ -25,6 +24,7 @@ Many of my projects are *not* on GitHub. Check out my [Git server](https://git.v
 ## Spoken Languages
 
 (sorted by preference)
+![Dank Nezuko](dank-nezuko.gif)
 
 - English
 - Hindi
@@ -33,6 +33,7 @@ Many of my projects are *not* on GitHub. Check out my [Git server](https://git.v
 ## Languages to Learn
 
 (*sighs* probably will never learn any of these)
+![Dank Nezuko](dank-nezuko.gif)
 
 - Haskell
 - Rust
