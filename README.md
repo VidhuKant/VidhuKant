@@ -41,4 +41,4 @@ Many of my projects are *not* on GitHub. Check out my [Git server](https://git.v
 - Elixir
 
 
-**Programmer by profession (not really) but weeb at heart**
+**Programmer by profession (not really) but weeb by heart**
