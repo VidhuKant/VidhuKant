@@ -16,7 +16,8 @@ Many of my projects are *not* on GitHub. Check out my [Git server](https://git.v
 (sorted by preference, I'm bad at all of them)
 
 - Go
-- JavaScript (with a touch of TS)
+- Kotlin (kinda)
+- JavaScript
 - Bash
 - Python
 
